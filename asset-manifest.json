@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/day20/static/css/main.2cce8147.chunk.css",
-    "main.js": "/day20/static/js/main.52e9fc08.chunk.js",
-    "main.js.map": "/day20/static/js/main.52e9fc08.chunk.js.map",
+    "main.js": "/day20/static/js/main.13228216.chunk.js",
+    "main.js.map": "/day20/static/js/main.13228216.chunk.js.map",
     "runtime~main.js": "/day20/static/js/runtime~main.f5fee5ce.js",
     "runtime~main.js.map": "/day20/static/js/runtime~main.f5fee5ce.js.map",
     "static/js/2.3310f33a.chunk.js": "/day20/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/day20/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/day20/index.html",
-    "precache-manifest.9a7344257f84f4fe5651e7ddf18d5c65.js": "/day20/precache-manifest.9a7344257f84f4fe5651e7ddf18d5c65.js",
+    "precache-manifest.088db85399583fd62faa56b5233870ff.js": "/day20/precache-manifest.088db85399583fd62faa56b5233870ff.js",
     "service-worker.js": "/day20/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/day20/static/css/main.2cce8147.chunk.css.map"
   }
