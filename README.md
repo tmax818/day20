@@ -2,10 +2,6 @@
 
 This is how I did it.
 
-
-
-
-
 ```bash
 $ mkdir day20
 $ cd day20
